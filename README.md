@@ -1,4 +1,4 @@
-h1 align="center">Hi 👋, I'm Javeed</h1>
+<h1 align="center">Hi 👋, I'm Sivaram</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 - 👨‍💻 All of my projects are available at [Github.io](Github.io)
